@@ -268,7 +268,6 @@ PRODUCT_COPY_FILES += \
     vendor/google_devices/cheetah/product/lib64/libdmjavaplugin.so:$(TARGET_COPY_OUT_PRODUCT)/lib64/libdmjavaplugin.so \
     vendor/google_devices/cheetah/product/lib/libdmengine.so:$(TARGET_COPY_OUT_PRODUCT)/lib/libdmengine.so \
     vendor/google_devices/cheetah/product/lib/libdmjavaplugin.so:$(TARGET_COPY_OUT_PRODUCT)/lib/libdmjavaplugin.so \
-    vendor/google_devices/cheetah/product/media/bootanimation-dark.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation-dark.zip \
     vendor/google_devices/cheetah/product/media/bootanimation.zip:$(TARGET_COPY_OUT_PRODUCT)/media/bootanimation.zip \
     vendor/google_devices/cheetah/product/wallpaper/image/default_wallpaper_BLK:$(TARGET_COPY_OUT_PRODUCT)/wallpaper/image/default_wallpaper_BLK \
     vendor/google_devices/cheetah/product/wallpaper/image/default_wallpaper_HAZ:$(TARGET_COPY_OUT_PRODUCT)/wallpaper/image/default_wallpaper_HAZ \
