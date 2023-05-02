@@ -1,0 +1,3 @@
+require board=cheetah
+require version-bootloader=cloudripper-1.0-9618366
+require version-baseband=g5300g-221229-230323-B-9800995
